@@ -1,0 +1,14 @@
+# Ignorar executáveis sem extensão (compilados C no Linux)
+ttt
+
+# Java classes
+*.class
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local config
+.DS_Store
+.vscode/
+.runinfo*
